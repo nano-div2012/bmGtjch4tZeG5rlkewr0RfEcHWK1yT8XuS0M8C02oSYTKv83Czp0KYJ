@@ -1,1 +1,1 @@
-https://example.com/
+https://nyr-tools-nyr-dev-tools.vercel.app/
